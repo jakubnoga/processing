@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"image"
 	"image/color"
-	"kdtree"
+	"github.com/jakubnoga/kdtree"
 	"os"
 	"strconv"
 )
